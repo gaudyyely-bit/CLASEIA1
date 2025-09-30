@@ -1,0 +1,5 @@
+ecuacion_app/
+│
+├── streamlit_app.py
+├── requirements.txt
+├── README.md
